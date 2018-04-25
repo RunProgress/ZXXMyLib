@@ -1,0 +1,6 @@
+framework module ZXXRefresh {
+  umbrella header "ZXXRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}

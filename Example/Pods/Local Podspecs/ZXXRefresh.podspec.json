@@ -1,0 +1,22 @@
+{
+  "name": "ZXXRefresh",
+  "version": "0.1.0",
+  "summary": "A short description of ZXXRefresh.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/micoo/ZXXRefresh",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "micoo": "zhangx0514@163.com"
+  },
+  "source": {
+    "git": "https://github.com/micoo/ZXXRefresh.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZXXRefresh/Classes/**/*"
+}
