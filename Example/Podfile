@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZXXRefresh_Example' do
+  pod 'ZXXRefresh', :path => '../'
+
+  target 'ZXXRefresh_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
